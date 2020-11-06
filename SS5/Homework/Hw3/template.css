@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    height: 300px;
+}
+.anime-container{
+    margin-bottom:15px;
+}
+
+.category, .name, .price, .chapter {
+    margin-bottom:5px;
+    height :12px;
+}

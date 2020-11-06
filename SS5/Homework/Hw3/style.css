@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(171, 175, 151);
+    color: rgba(255, 255, 255, 0.863);
+    margin-left: 250px;
+    width:1100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
